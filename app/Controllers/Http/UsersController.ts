@@ -17,7 +17,6 @@ export default class UsersController {
         rules.unique({ table: 'users', column: 'email' }),
       ]),
       password: schema.string({ trim: true }, [rules.confirmed(), rules.minLength(8)]),
-      isAdmin: schema.boolean(),
     })
 
     const messages = {
