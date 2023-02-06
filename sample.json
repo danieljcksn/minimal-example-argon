@@ -1,0 +1,37 @@
+{
+  "qsa": [
+    {
+      "nome_socio": "ANDREA FERREIRA MOTA",
+      "qualificacao_socio": "Sócio-Administrador"
+    }
+  ],
+  "cnpj": "23039756000140",
+  "email": null,
+  "porte": "MICRO EMPRESA",
+  "bairro": "CAMINHO DAS ARVORES",
+  "numero": "001189",
+  "municipio": "SALVADOR",
+  "logradouro": "TANCREDO NEVES",
+  "cnae_fiscal": 7311400,
+  "complemento": "EDIF GUIMARAES TRADE SALA 512",
+  "razao_social": "ANDREA MOTA PRODUCOES LTDA",
+  "nome_fantasia": "PAPPOU ART E MUSIC",
+  "capital_social": 80000,
+  "ddd_telefone_1": "7131131504",
+  "ddd_telefone_2": "",
+  "opcao_pelo_mei": false,
+  "natureza_juridica": "Sociedade Empresária Limitada",
+  "situacao_especial": "",
+  "opcao_pelo_simples": true,
+  "data_opcao_pelo_mei": null,
+  "data_exclusao_do_mei": null,
+  "cnae_fiscal_descricao": "Agências de publicidade",
+  "data_inicio_atividade": "2015-08-11",
+  "data_situacao_especial": null,
+  "data_opcao_pelo_simples": "2018-01-01",
+  "data_situacao_cadastral": "2015-08-11",
+  "data_exclusao_do_simples": null,
+  "descricao_situacao_cadastral": "ATIVA",
+  "descricao_motivo_situacao_cadastral": "SEM MOTIVO",
+  "descricao_identificador_matriz_filial": "MATRIZ"
+}
